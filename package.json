@@ -1,0 +1,29 @@
+{
+  "name": "fds",
+  "version": "1.0.1",
+  "description": "fjdskljaf",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jfksdjf"
+  },
+  "keywords": [
+    "fjkdls"
+  ],
+  "author": "capul",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "base64-node": "^1.0.0",
+    "connect-redis": "^3.1.0",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "js-rijndael": "^1.0.0",
+    "redis": "^2.6.2"
+  }
+}
